@@ -2,8 +2,6 @@
 
 Welcome to the GitHub repository of the Stacker Game! This arcade-style game is a fun and challenging way to test your timing skills as you aim to stack moving blocks directly on top of each other. Each level increases in difficulty as the blocks move faster. See if you can reach the top!
 
-## Game Demo
-
 Click here to watch the game demo: [Youtube Link](https://youtu.be/6Bdp9x-A6mw)
 
 ## Features
