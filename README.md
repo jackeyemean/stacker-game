@@ -6,7 +6,6 @@ Welcome to the GitHub repository of the Stacker Game! This arcade-style game is 
 
 Click here to watch the game demo: [Youtube Link](https://youtu.be/6Bdp9x-A6mw)
 
-
 ## Features
 
 - **Visual and Sound Effects**: Utilizes engaging animations and sound effects to enhance the gaming experience.
@@ -14,6 +13,18 @@ Click here to watch the game demo: [Youtube Link](https://youtu.be/6Bdp9x-A6mw)
 - **Different Game Modes**: Have the option of playing the classic arcade mode or endless stacking mode.
 - **Endless Mode Powerups**: Every 5 blocks stacked gives you access to powerups such as slowing block speed, doubling score, or reviving a lost block!
 - **High Score Tracking**: Keeps track of your highest score across sessions.
+
+## Prerequisites
+
+Before you start the Stacker game, make sure you have the following installed on your system:
+
+- **Python**: The game is a Python application. You need to have Python installed to run the game. Download and install Python from [python.org](https://www.python.org/downloads/).
+
+- **Git**: You will need Git to clone the repository. If you do not have Git installed, download it from [git-scm.com](https://git-scm.com/downloads).
+
+### Screen Resolution Note
+- **Display Settings**: If you are using a Windows system and the game popup does not fit your screen, you may need to adjust your display scale. Go to `Settings > Display > Scale` in your Windows settings and set the scale to 100%.
+
 
 ## Installation
 
@@ -36,6 +47,4 @@ To run the Stacker game on your local machine, follow these steps:
      ```bash
      python main.py
      ```
-   - NOTE: The game popup will not adjust to fit your screen if your monitor is too small. If you are using windows and need to change your display scale to fit the popup, go to "Settings > Display > Scale" and select a smaller percentage like 100%.
-
-
+     
